@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Sales Analysis using SQL
 
 Analyzing sales, customers, and products for a retail business using SQL and Python.
-
+## 🚀 Live Dashboard: https://vishaka-ecommerce.streamlit.app/
 ## What This Project Covers
 - Total revenue and business overview
 - Revenue breakdown by product category
